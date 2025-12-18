@@ -17,3 +17,4 @@ displayed to the customer every time.
 OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/afad405a-785d-4303-a7c3-94dd13d6add0" />
 
 Assignment 3: Redo assignment 2 using UDP socket. 
+OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/43fac867-1b23-42ca-9a22-536e26be9cb1" />
