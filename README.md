@@ -14,3 +14,4 @@ v. Display the customer ids <IP, port> who has done transactions already. This
 list should be updated in the server every time a transaction occurs.
 vi. The total number of unique customers who did some transaction will be
 displayed to the customer every time.
+OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/afad405a-785d-4303-a7c3-94dd13d6add0" />
