@@ -15,7 +15,9 @@ OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-
 Assignment 3: Redo assignment 2 using UDP socket. 
 OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/43fac867-1b23-42ca-9a22-536e26be9cb1" />
 
-Assignment 4:
-
-Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram to show the steps in the protocols recorded in the captured file (saved in the .pcap file of wireshark) during a PING operation. List the L2, L3, L4 header fields that can be extracted from the .pcap file. 
+Assignment 4: Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram to show the steps in the protocols recorded in the captured file (saved in the .pcap file of wireshark) during a PING operation. List the L2, L3, L4 header fields that can be extracted from the .pcap file. 
 OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/2357c3c8-39dc-494f-86ce-b395ce7654ba" />
+
+Asignment 5: Learn and use maximum number of packet generation tools
+OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/40046104-7be6-4edf-a2f7-4f3f71807dc2" />
+
