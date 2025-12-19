@@ -42,3 +42,6 @@ OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-
 Assignment 12: Do the same attack as given in assignment no. 11 with ICMP packets using RAW socket? 
 OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/83bc20d1-c687-4eba-ae48-75db46046bd4" />
 
+Assignment 13: Create a binary tree topology with 7 switches in mininet. Capture packets at the root switch. Write a C program to extract the headers and draw a time diagram to show the protocols displayed in the captured file (save the .pcap/.pcapng file of wireshark/tshark) during a PING operation. List the L2, L3, L4 protocols that can be extracted from the .pcap/.pcapng file.
+OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/8730b913-80a9-4128-9294-a43efc29f312" />
+
