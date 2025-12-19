@@ -29,3 +29,7 @@ OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-
 
 Asignment 8: Write a program in C using thread library and TCP sockets to build a chat server which enable clients communicating to each other through the chat server. Message logs must be maintained in the server in a text file. Each client will see the conversations in real time. Clients must handled by a server thread. (Keep it like a group chatbox)
 OUTPUT:<img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/2910e767-5b66-46ef-8e8e-ae609fa34e4f" />
+
+Assignment 9: Write a client server socket program in TCP for uploading and downloading files between two different hosts. Also calculate the transfer time in both the cases.
+OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/fa7bd50e-4d3d-4790-9952-1829bf020de8" />
+
