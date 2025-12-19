@@ -21,3 +21,5 @@ OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-
 Asignment 5: Learn and use maximum number of packet generation tools
 OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/40046104-7be6-4edf-a2f7-4f3f71807dc2" />
 
+Assignment 6: Develop a simple C based network simulator to analyze TCP traffic.
+OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/d26e2d82-64c6-4fe6-bb72-53abb1ec2bb9" />
