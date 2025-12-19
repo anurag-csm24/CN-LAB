@@ -40,5 +40,5 @@ Assignment 11: Write a RAW socket program to generate TCP SYN flood based DDoS a
 OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/08c8fee4-06fd-4473-a60d-1c12dbaf07ad" />
 
 Assignment 12: Do the same attack as given in assignment no. 11 with ICMP packets using RAW socket? 
-OUTPUT: 
+OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/83bc20d1-c687-4eba-ae48-75db46046bd4" />
 
