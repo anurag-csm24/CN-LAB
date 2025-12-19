@@ -26,3 +26,6 @@ OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-
 
 Assignment 7: Write UDP client server socket program where client sends one/two number(s) (integer or floating point) to server and a scientific calculator operation (like sin,cos,*,/, inv etc.) and server responds with the result after evaluating the value of operation as sent by the client. Server will maintain a scientific calculator. Detect in the mininet hosts with wireshark if there is any packet loss? 
 OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/3ce576cb-391a-4de8-bf49-aed0b0c1cdeb" />
+
+Asignment 8: Write a program in C using thread library and TCP sockets to build a chat server which enable clients communicating to each other through the chat server. Message logs must be maintained in the server in a text file. Each client will see the conversations in real time. Clients must handled by a server thread. (Keep it like a group chatbox)
+OUTPUT:<img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/2910e767-5b66-46ef-8e8e-ae609fa34e4f" />
