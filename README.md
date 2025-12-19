@@ -36,3 +36,6 @@ OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-
 Assignment 10: Write two C programs using raw socket to send i. TCP packet where TCP payload will contain your roll number. ii. ICMP time stamp messages towards a target IP.
 OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/a098bcbd-6145-41f5-9803-7d4dd04dd1a8" />
 
+Assignment 11: Write a RAW socket program to generate TCP SYN flood based DDoS attack towards an IP address. Take four mininet hosts as agent devices.
+OUTPUT: <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/08c8fee4-06fd-4473-a60d-1c12dbaf07ad" />
+
